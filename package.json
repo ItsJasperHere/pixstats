@@ -10,6 +10,7 @@
   "author": "Jasper <jasperfong.hm@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@discordjs/builders": "^0.8.1",
     "@discordjs/rest": "^0.1.0-canary.0",
     "async": "^3.2.1",
     "chalk": "^4.1.2",
@@ -18,7 +19,7 @@
     "discord-api-types": "^0.24.0",
     "discord-buttons": "^4.0.0",
     "discord-reply": "^0.1.2",
-    "discord.js": "^12.5.3",
+    "discord.js": "^13.3.0",
     "dotenv": "^10.0.0",
     "eslint": "^7.32.0",
     "express": "^4.17.1",
